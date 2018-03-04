@@ -1,2 +1,3 @@
 # blockchain-boot
-Test bed for blockchain technologies
+
+Experimenting on Blockchain technologies.
