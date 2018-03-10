@@ -3,3 +3,5 @@ target/
 
 go-ethereum/
 net3/
+
+chaindata/

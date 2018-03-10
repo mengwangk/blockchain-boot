@@ -1,8 +1,8 @@
 pragma solidity ^0.4.18;
 
-    /**
-    * Example script for the Ethereum development walkthrough
-    */
+/**
+* Example script for the Ethereum development walkthrough
+*/
 
 contract Wrestling {
     /**

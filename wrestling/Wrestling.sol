@@ -1,8 +1,8 @@
 pragma solidity ^0.4.18;
 
-    /**
-    * Example script for the Ethereum development walkthrough
-    */
+/**
+* Example script for the Ethereum development walkthrough
+*/
 
 contract Wrestling {
     /**
@@ -78,7 +78,7 @@ contract Wrestling {
     	wrestler1Played = false;
     	wrestler2Played = false;
 
-    	EndOfRoundEvent(wrestler1Deposit, wrestler2Deposit);
+        EndOfRoundEvent(wrestler1Deposit, wrestler2Deposit);
     }
 
     function endOfGame(address winner) internal {
